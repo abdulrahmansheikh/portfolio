@@ -3,47 +3,44 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Abdul Rahman Sheikh | Practice Lead, Engineering Manager & Solutions Architect</title>
-  <meta name="description" content="Portfolio of Abdul Rahman Sheikh: Practice Lead, Engineering Manager, Principal Consultant and Solutions Architect specialising in SAP BTP, SAP Commerce, cloud platforms, integration, engineering leadership and business-value solution delivery." />
+  <title>Abdul Rahman Sheikh | Engineering Manager, Practice Lead & Solutions Architect</title>
+  <meta name="description" content="Portfolio of Abdul Rahman Sheikh: Engineering Manager, Practice Lead and Solutions Architect with experience across product engineering, cloud platforms, SAP BTP, SAP Commerce, AWS, Azure, hybrid integration, engineering leadership and business-value delivery." />
   <meta name="author" content="Abdul Rahman Sheikh" />
-  <meta property="og:title" content="Abdul Rahman Sheikh | Practice Lead & Solutions Architect" />
-  <meta property="og:description" content="Detailed portfolio covering leadership, solution architecture, SAP BTP, SAP Commerce, cloud, integration and business-value delivery experience." />
+  <meta property="og:title" content="Abdul Rahman Sheikh | Engineering Manager, Practice Lead & Solutions Architect" />
+  <meta property="og:description" content="Detailed portfolio covering engineering leadership, solution architecture, product delivery, cloud platforms, SAP BTP, AWS, Azure, integration and business-value outcomes." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://abdulrahmansheikh.github.io/portfolio/" />
   <style>
     :root {
-      --bg: #0f172a;
-      --panel: #111827;
-      --panel-2: #1f2937;
-      --text: #e5e7eb;
-      --muted: #a7b0c0;
-      --brand: #38bdf8;
-      --brand-2: #a78bfa;
-      --accent: #22c55e;
-      --line: rgba(255, 255, 255, 0.12);
-      --card: rgba(255, 255, 255, 0.06);
-      --card-strong: rgba(255, 255, 255, 0.1);
-      --shadow: 0 24px 80px rgba(0, 0, 0, 0.35);
-      --radius: 22px;
+      --bg: #0b1120;
+      --panel: rgba(255, 255, 255, 0.065);
+      --panel-strong: rgba(255, 255, 255, 0.1);
+      --text: #eef2ff;
+      --muted: #aeb9cc;
+      --line: rgba(255, 255, 255, 0.14);
+      --blue: #38bdf8;
+      --purple: #a78bfa;
+      --green: #22c55e;
+      --amber: #fbbf24;
+      --radius: 24px;
+      --shadow: 0 24px 90px rgba(0, 0, 0, 0.34);
     }
 
     * { box-sizing: border-box; }
-
     html { scroll-behavior: smooth; }
-
     body {
       margin: 0;
       font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       color: var(--text);
       background:
-        radial-gradient(circle at top left, rgba(56, 189, 248, 0.18), transparent 32rem),
-        radial-gradient(circle at top right, rgba(167, 139, 250, 0.16), transparent 36rem),
-        linear-gradient(180deg, #0f172a 0%, #111827 45%, #0b1120 100%);
-      line-height: 1.6;
+        radial-gradient(circle at 10% 0%, rgba(56, 189, 248, 0.20), transparent 32rem),
+        radial-gradient(circle at 90% 0%, rgba(167, 139, 250, 0.18), transparent 36rem),
+        radial-gradient(circle at 40% 70%, rgba(34, 197, 94, 0.08), transparent 30rem),
+        linear-gradient(180deg, #0b1120 0%, #111827 48%, #070b14 100%);
+      line-height: 1.62;
     }
 
     a { color: inherit; text-decoration: none; }
-
     .page { width: min(1180px, calc(100% - 40px)); margin: 0 auto; }
 
     .nav {
@@ -51,331 +48,126 @@
       top: 0;
       z-index: 10;
       backdrop-filter: blur(16px);
-      background: rgba(15, 23, 42, 0.78);
+      background: rgba(11, 17, 32, 0.82);
       border-bottom: 1px solid var(--line);
     }
-
     .nav-inner {
       width: min(1180px, calc(100% - 40px));
       margin: 0 auto;
+      min-height: 72px;
       display: flex;
       align-items: center;
       justify-content: space-between;
-      min-height: 72px;
       gap: 20px;
     }
-
-    .brand {
-      font-weight: 800;
-      letter-spacing: -0.03em;
-      font-size: 1.05rem;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      white-space: nowrap;
-    }
-
+    .brand { display: flex; align-items: center; gap: 10px; font-weight: 850; letter-spacing: -0.03em; }
     .brand-mark {
-      width: 34px;
-      height: 34px;
-      border-radius: 12px;
-      display: grid;
-      place-items: center;
-      background: linear-gradient(135deg, var(--brand), var(--brand-2));
-      color: white;
-      box-shadow: 0 10px 30px rgba(56, 189, 248, 0.28);
-      font-weight: 900;
+      width: 34px; height: 34px; border-radius: 12px;
+      display: grid; place-items: center;
+      background: linear-gradient(135deg, var(--blue), var(--purple));
+      color: white; font-weight: 900;
+      box-shadow: 0 10px 30px rgba(56, 189, 248, 0.25);
     }
-
-    .nav-links {
-      display: flex;
-      gap: 18px;
-      align-items: center;
-      font-size: 0.92rem;
-      color: var(--muted);
-      flex-wrap: wrap;
-      justify-content: flex-end;
-    }
-
+    .nav-links { display: flex; gap: 18px; color: var(--muted); font-size: 0.92rem; flex-wrap: wrap; justify-content: flex-end; }
     .nav-links a:hover { color: white; }
 
     .hero {
-      padding: 86px 0 48px;
+      padding: 88px 0 46px;
       display: grid;
-      grid-template-columns: 1.2fr 0.8fr;
+      grid-template-columns: 1.15fr 0.85fr;
       gap: 42px;
       align-items: center;
     }
-
     .eyebrow {
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
+      display: inline-flex; align-items: center; gap: 10px;
       padding: 8px 12px;
-      border: 1px solid var(--line);
       border-radius: 999px;
-      color: #dbeafe;
+      border: 1px solid var(--line);
       background: rgba(56, 189, 248, 0.08);
+      color: #dbeafe;
       font-size: 0.9rem;
       margin-bottom: 24px;
     }
-
-    .dot {
-      width: 8px;
-      height: 8px;
-      border-radius: 999px;
-      background: var(--accent);
-      box-shadow: 0 0 20px var(--accent);
-    }
-
+    .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); box-shadow: 0 0 22px var(--green); }
     h1 {
       margin: 0;
-      font-size: clamp(2.6rem, 7vw, 5.35rem);
+      font-size: clamp(2.7rem, 7vw, 5.35rem);
       line-height: 0.95;
       letter-spacing: -0.08em;
     }
-
     .gradient-text {
-      background: linear-gradient(135deg, #fff 10%, #bfeaff 45%, #d8b4fe 85%);
+      background: linear-gradient(135deg, #fff 12%, #bae6fd 45%, #ddd6fe 86%);
       -webkit-background-clip: text;
       background-clip: text;
       color: transparent;
     }
-
-    .hero-copy {
-      margin: 26px 0 0;
-      color: #d1d5db;
-      font-size: clamp(1.05rem, 2vw, 1.25rem);
-      max-width: 760px;
-    }
-
-    .hero-actions {
-      display: flex;
-      gap: 14px;
-      flex-wrap: wrap;
-      margin-top: 32px;
-    }
-
+    .hero-copy { margin: 26px 0 0; color: #d1d5db; font-size: clamp(1.05rem, 2vw, 1.25rem); max-width: 760px; }
+    .note { color: #cbd5e1; font-size: 0.98rem; margin-top: 16px; }
+    .hero-actions { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 32px; }
     .btn {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      gap: 8px;
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
       border-radius: 999px;
       padding: 13px 18px;
       border: 1px solid var(--line);
       background: rgba(255, 255, 255, 0.08);
-      color: white;
-      font-weight: 700;
-      transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+      color: white; font-weight: 750;
+      transition: transform 0.2s ease, background 0.2s ease;
     }
-
-    .btn.primary {
-      background: linear-gradient(135deg, #0ea5e9, #7c3aed);
-      border-color: transparent;
-      box-shadow: 0 18px 50px rgba(14, 165, 233, 0.25);
-    }
-
-    .btn:hover { transform: translateY(-2px); background: rgba(255, 255, 255, 0.13); }
+    .btn.primary { background: linear-gradient(135deg, #0ea5e9, #7c3aed); border-color: transparent; box-shadow: 0 18px 50px rgba(14, 165, 233, 0.24); }
+    .btn:hover { transform: translateY(-2px); background: rgba(255, 255, 255, 0.14); }
 
     .hero-card {
       border: 1px solid var(--line);
-      background: linear-gradient(180deg, rgba(255,255,255,0.1), rgba(255,255,255,0.055));
+      background: linear-gradient(180deg, rgba(255,255,255,0.10), rgba(255,255,255,0.055));
       border-radius: var(--radius);
       padding: 26px;
       box-shadow: var(--shadow);
     }
-
-    .hero-card h2 { margin: 0 0 18px; font-size: 1.05rem; color: white; }
-
-    .metric-grid {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 14px;
-      margin-top: 18px;
-    }
-
-    .metric {
-      background: rgba(255, 255, 255, 0.07);
-      border: 1px solid var(--line);
-      border-radius: 18px;
-      padding: 16px;
-    }
-
-    .metric strong { display: block; font-size: 1.45rem; color: white; line-height: 1; }
+    .hero-card h2 { margin: 0 0 10px; font-size: 1.12rem; }
+    .hero-card p { color: var(--muted); margin: 0; }
+    .metric-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin-top: 18px; }
+    .metric { background: rgba(255,255,255,0.07); border: 1px solid var(--line); border-radius: 18px; padding: 16px; }
+    .metric strong { display: block; font-size: 1.45rem; line-height: 1; color: white; }
     .metric span { display: block; color: var(--muted); font-size: 0.86rem; margin-top: 7px; }
 
     section { padding: 54px 0; }
+    .section-kicker { color: var(--blue); font-weight: 850; text-transform: uppercase; letter-spacing: 0.12em; font-size: 0.78rem; margin: 0 0 8px; }
+    h2.section-title { margin: 0; font-size: clamp(1.7rem, 4vw, 2.6rem); line-height: 1.06; letter-spacing: -0.045em; }
+    .section-desc { max-width: 760px; color: var(--muted); margin: 12px 0 0; }
 
-    .section-head {
-      display: flex;
-      justify-content: space-between;
-      align-items: end;
-      gap: 20px;
-      margin-bottom: 26px;
-    }
-
-    .section-kicker {
-      color: var(--brand);
-      font-weight: 800;
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
-      font-size: 0.78rem;
-      margin: 0 0 8px;
-    }
-
-    h2.section-title {
-      margin: 0;
-      font-size: clamp(1.7rem, 4vw, 2.6rem);
-      line-height: 1.05;
-      letter-spacing: -0.04em;
-    }
-
-    .section-desc {
-      max-width: 620px;
-      color: var(--muted);
-      margin: 10px 0 0;
-    }
-
-    .cards {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 18px;
-    }
-
-    .card {
-      border: 1px solid var(--line);
-      background: var(--card);
-      border-radius: var(--radius);
-      padding: 22px;
-    }
-
+    .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 26px; }
+    .card { border: 1px solid var(--line); background: var(--panel); border-radius: var(--radius); padding: 22px; }
     .card h3 { margin: 0 0 10px; font-size: 1.05rem; }
     .card p { color: var(--muted); margin: 0; }
 
-    .skills {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      margin-top: 18px;
-    }
-
-    .pill {
-      padding: 8px 11px;
-      border-radius: 999px;
-      border: 1px solid var(--line);
-      background: rgba(255, 255, 255, 0.06);
-      color: #dbeafe;
-      font-size: 0.88rem;
-    }
-
-    .timeline {
-      border-left: 1px solid var(--line);
-      padding-left: 24px;
-      display: grid;
-      gap: 22px;
-    }
-
-    .role {
-      position: relative;
-      padding: 24px;
-      border-radius: var(--radius);
-      border: 1px solid var(--line);
-      background: var(--card);
-    }
-
-    .role::before {
-      content: "";
-      position: absolute;
-      left: -31px;
-      top: 30px;
-      width: 12px;
-      height: 12px;
-      border-radius: 50%;
-      background: var(--brand);
-      box-shadow: 0 0 0 6px rgba(56, 189, 248, 0.12);
-    }
-
+    .timeline { border-left: 1px solid var(--line); padding-left: 24px; display: grid; gap: 22px; margin-top: 28px; }
+    .role { position: relative; padding: 24px; border-radius: var(--radius); border: 1px solid var(--line); background: var(--panel); }
+    .role::before { content: ""; position: absolute; left: -31px; top: 30px; width: 12px; height: 12px; border-radius: 50%; background: var(--blue); box-shadow: 0 0 0 6px rgba(56,189,248,0.12); }
     .role h3 { margin: 0; font-size: 1.35rem; }
     .role-meta { color: #cbd5e1; margin: 5px 0 16px; font-weight: 700; }
     .role ul, .project ul { padding-left: 20px; margin: 14px 0 0; color: #d1d5db; }
     .role li, .project li { margin: 8px 0; }
 
-    .project-grid {
-      display: grid;
-      gap: 22px;
-    }
-
-    .project {
-      border: 1px solid var(--line);
-      background: linear-gradient(180deg, rgba(255,255,255,0.085), rgba(255,255,255,0.045));
-      border-radius: 28px;
-      padding: 28px;
-      box-shadow: 0 12px 48px rgba(0,0,0,0.18);
-    }
-
-    .project-top {
-      display: grid;
-      grid-template-columns: 1fr auto;
-      gap: 18px;
-      align-items: start;
-      margin-bottom: 18px;
-    }
-
+    .project-grid { display: grid; gap: 22px; margin-top: 28px; }
+    .project { border: 1px solid var(--line); background: linear-gradient(180deg, rgba(255,255,255,0.085), rgba(255,255,255,0.045)); border-radius: 28px; padding: 28px; box-shadow: 0 12px 48px rgba(0,0,0,0.18); }
+    .project-top { display: grid; grid-template-columns: 1fr auto; gap: 18px; align-items: start; margin-bottom: 18px; }
     .project h3 { margin: 0; font-size: clamp(1.3rem, 2vw, 1.75rem); letter-spacing: -0.03em; }
-    .project .subtitle { color: #cbd5e1; margin: 6px 0 0; font-weight: 700; }
-
+    .subtitle { color: #cbd5e1; margin: 6px 0 0; font-weight: 700; }
     .tag-row { display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
     .tag { font-size: 0.78rem; padding: 6px 9px; border-radius: 999px; border: 1px solid var(--line); color: #bfdbfe; background: rgba(59, 130, 246, 0.1); white-space: nowrap; }
-
-    .project-body {
-      display: grid;
-      grid-template-columns: 0.75fr 1.25fr;
-      gap: 22px;
-      margin-top: 18px;
-    }
-
-    .problem {
-      background: rgba(15, 23, 42, 0.55);
-      border: 1px solid var(--line);
-      border-radius: 20px;
-      padding: 18px;
-      color: var(--muted);
-    }
-
+    .project-body { display: grid; grid-template-columns: 0.75fr 1.25fr; gap: 22px; margin-top: 18px; }
+    .problem { background: rgba(15, 23, 42, 0.55); border: 1px solid var(--line); border-radius: 20px; padding: 18px; color: var(--muted); }
     .problem strong { display: block; color: white; margin-bottom: 8px; }
+    .outcome { border-left: 3px solid var(--green); padding-left: 14px; color: #d1fae5; margin-top: 14px; font-weight: 750; }
 
-    .outcome {
-      border-left: 3px solid var(--accent);
-      padding-left: 14px;
-      color: #d1fae5;
-      margin-top: 14px;
-      font-weight: 700;
-    }
+    .skills { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
+    .pill { padding: 8px 11px; border-radius: 999px; border: 1px solid var(--line); background: rgba(255,255,255,0.06); color: #dbeafe; font-size: 0.88rem; }
 
-    .contact {
-      border: 1px solid var(--line);
-      border-radius: 30px;
-      padding: 34px;
-      background:
-        linear-gradient(135deg, rgba(56, 189, 248, 0.16), rgba(167, 139, 250, 0.12)),
-        rgba(255,255,255,0.06);
-      display: grid;
-      grid-template-columns: 1fr auto;
-      gap: 22px;
-      align-items: center;
-      margin-bottom: 60px;
-    }
-
+    .callout { border: 1px solid rgba(251,191,36,0.35); background: rgba(251,191,36,0.08); border-radius: 24px; padding: 22px; color: #fde68a; margin-top: 24px; }
+    .contact { border: 1px solid var(--line); border-radius: 30px; padding: 34px; background: linear-gradient(135deg, rgba(56,189,248,0.16), rgba(167,139,250,0.12)), rgba(255,255,255,0.06); display: grid; grid-template-columns: 1fr auto; gap: 22px; align-items: center; margin-bottom: 60px; }
     .contact h2 { margin: 0; font-size: clamp(1.6rem, 4vw, 2.5rem); letter-spacing: -0.04em; }
     .contact p { color: #dbeafe; margin: 10px 0 0; max-width: 720px; }
-
-    footer {
-      border-top: 1px solid var(--line);
-      padding: 28px 0 40px;
-      color: var(--muted);
-      font-size: 0.9rem;
-    }
+    footer { border-top: 1px solid var(--line); padding: 28px 0 40px; color: var(--muted); font-size: 0.9rem; }
 
     @media (max-width: 920px) {
       .hero, .project-body, .contact { grid-template-columns: 1fr; }
@@ -384,7 +176,6 @@
       .tag-row { justify-content: flex-start; }
       .nav-links { display: none; }
     }
-
     @media (max-width: 520px) {
       .page, .nav-inner { width: min(100% - 24px, 1180px); }
       .hero { padding-top: 54px; }
@@ -396,16 +187,9 @@
 <body>
   <nav class="nav">
     <div class="nav-inner">
-      <a class="brand" href="#top" aria-label="Abdul Rahman Sheikh portfolio home">
-        <span class="brand-mark">A</span>
-        <span>Abdul Rahman Sheikh</span>
-      </a>
+      <a class="brand" href="#top" aria-label="Abdul Rahman Sheikh portfolio home"><span class="brand-mark">A</span><span>Abdul Rahman Sheikh</span></a>
       <div class="nav-links" aria-label="Primary navigation">
-        <a href="#value">Value</a>
-        <a href="#experience">Experience</a>
-        <a href="#projects">Projects</a>
-        <a href="#skills">Skills</a>
-        <a href="#contact">Contact</a>
+        <a href="#value">Value</a><a href="#breadth">Breadth</a><a href="#experience">Experience</a><a href="#projects">Projects</a><a href="#skills">Skills</a><a href="#contact">Contact</a>
       </div>
     </div>
   </nav>
@@ -413,69 +197,65 @@
   <main id="top" class="page">
     <section class="hero" aria-labelledby="hero-title">
       <div>
-        <div class="eyebrow"><span class="dot"></span> Sydney-based architecture and engineering leader</div>
-        <h1 id="hero-title"><span class="gradient-text">Practice Lead.</span><br />Engineering Manager.<br />Solutions Architect.</h1>
-        <p class="hero-copy">
-          I help organisations turn complex business problems into clear solution direction, delivery confidence and scalable enterprise platforms. My work sits at the intersection of people leadership, solution architecture, customer advisory and hands-on engineering delivery.
-        </p>
+        <div class="eyebrow"><span class="dot"></span> Engineering, architecture and practice leadership</div>
+        <h1 id="hero-title"><span class="gradient-text">Engineering Manager.</span><br />Practice Lead.<br />Solutions Architect.</h1>
+        <p class="hero-copy">I lead engineers, guide cross-functional delivery teams and turn complex business problems into scalable digital platforms. My experience spans product engineering, enterprise applications, cloud-native architecture, SAP BTP, SAP Commerce, AWS, Azure, hybrid integration and platform governance.</p>
+        <p class="note">Positioned for roles where people leadership, product-minded engineering, architecture direction and business outcome ownership need to work together.</p>
         <div class="hero-actions">
           <a class="btn primary" href="#projects">View project portfolio</a>
           <a class="btn" href="mailto:abdulrahman.mars@gmail.com">Contact me</a>
           <a class="btn" href="https://www.linkedin.com/in/abdulrahmansheikhm" target="_blank" rel="noopener">LinkedIn</a>
         </div>
       </div>
-
       <aside class="hero-card" aria-label="Profile summary">
-        <h2>Current positioning</h2>
-        <p style="color: var(--muted); margin: 0;">
-          Practice Lead, People Manager, Principal Consultant and Solutions Architect with experience leading engineers, guiding delivery teams, solving stakeholder problems and shaping business-aligned technology solutions.
-        </p>
+        <h2>Leadership profile</h2>
+        <p>Current role combines Practice Lead, People Manager, Principal Consultant and Solutions Architect responsibilities, with hands-on involvement across customer solutioning, delivery quality and capability uplift.</p>
         <div class="metric-grid">
-          <div class="metric"><strong>10+</strong><span>Years across engineering, architecture and consulting</span></div>
-          <div class="metric"><strong>7</strong><span>Approx. team members led across AU and offshore teams</span></div>
-          <div class="metric"><strong>SAP</strong><span>BTP, Commerce, Integration Suite, Identity and Cloud ALM</span></div>
+          <div class="metric"><strong>7</strong><span>Direct reports across onshore and offshore teams</span></div>
+          <div class="metric"><strong>15+</strong><span>Broader practice members influenced through guidance and standards</span></div>
           <div class="metric"><strong>Cloud</strong><span>AWS, Azure, GCP, DevOps and platform engineering</span></div>
+          <div class="metric"><strong>Enterprise</strong><span>SAP BTP, Commerce, integration, identity and hybrid platforms</span></div>
         </div>
       </aside>
     </section>
 
     <section id="value" aria-labelledby="value-title">
-      <div class="section-head">
-        <div>
-          <p class="section-kicker">Value proposition</p>
-          <h2 class="section-title" id="value-title">How I create value</h2>
-          <p class="section-desc">A balanced leadership profile across people, business problems, solution design and delivery quality.</p>
-        </div>
-      </div>
+      <p class="section-kicker">Value proposition</p>
+      <h2 class="section-title" id="value-title">What I bring to engineering and product organisations</h2>
+      <p class="section-desc">Not a narrow SAP-only profile. My value is the ability to lead people, simplify complexity, align teams and deliver practical platforms across mixed enterprise and cloud-native environments.</p>
       <div class="cards">
-        <article class="card">
-          <h3>Lead teams through ambiguity</h3>
-          <p>Guide engineers and cross-functional delivery teams through unclear requirements, complex dependencies and competing stakeholder priorities.</p>
-        </article>
-        <article class="card">
-          <h3>Translate business problems</h3>
-          <p>Turn business issues into solution options, target-state direction, transition paths and delivery recommendations that stakeholders can act on.</p>
-        </article>
-        <article class="card">
-          <h3>Balance delivery and strategy</h3>
-          <p>Keep teams focused on practical outcomes while aligning architecture decisions to scalability, cost, risk, user experience and long-term supportability.</p>
-        </article>
+        <article class="card"><h3>Engineering leadership</h3><p>Lead direct reports and guide wider practice members through mentoring, design reviews, delivery unblockers, technical standards and capability uplift.</p></article>
+        <article class="card"><h3>Product-minded solutioning</h3><p>Translate customer and operational problems into solution options, MVP direction, platform decisions and delivery slices that create measurable business value.</p></article>
+        <article class="card"><h3>Cloud and platform breadth</h3><p>Work across SAP BTP, SAP Commerce, AWS, Azure, GCP, hybrid integration, DevOps, APIs and modern application architecture.</p></article>
       </div>
+    </section>
+
+    <section id="breadth" aria-labelledby="breadth-title">
+      <p class="section-kicker">Technology breadth</p>
+      <h2 class="section-title" id="breadth-title">Broader than SAP: platform, cloud and product engineering</h2>
+      <p class="section-desc">SAP is one part of the experience. The wider capability is engineering leadership, cloud architecture, enterprise integration, digital platforms and outcome-focused solution delivery.</p>
+      <div class="cards">
+        <article class="card"><h3>Cloud-native delivery</h3><p>AWS, Azure, GCP, Kubernetes, Docker, Terraform, GitOps, DevOps, CI/CD, infrastructure as code and observability patterns.</p></article>
+        <article class="card"><h3>Full-stack and product engineering</h3><p>Java, Spring, Node.js, React, JavaScript, microservices, APIs, event-driven patterns, customer-facing portals and internal business applications.</p></article>
+        <article class="card"><h3>Enterprise platforms</h3><p>SAP BTP, SAP Commerce Cloud, SAP Integration Suite, identity, Cloud ALM, hybrid cloud, integration modernisation and platform governance.</p></article>
+      </div>
+      <div class="callout">For product-based companies: the transferable strengths are engineering leadership, platform thinking, delivery pragmatism, people development, business-value prioritisation and the ability to connect technology choices with customer and operational outcomes.</div>
     </section>
 
     <section id="experience" aria-labelledby="experience-title">
       <p class="section-kicker">Experience</p>
       <h2 class="section-title" id="experience-title">Leadership and consulting journey</h2>
-      <p class="section-desc">A career path from hands-on full-stack engineering to solution architecture, practice leadership, people management and customer advisory.</p>
-      <div class="timeline" style="margin-top: 28px;">
+      <p class="section-desc">A career path from hands-on full-stack engineering to team leadership, architecture advisory, practice leadership and customer-facing delivery direction.</p>
+      <div class="timeline">
         <article class="role">
           <h3>FAIR Consulting Group</h3>
           <div class="role-meta">Practice Lead | People Manager | Principal Consultant | Solutions Architect · Mar 2021 - Present</div>
           <ul>
-            <li>Lead, mentor and support engineers and consultants across Australia and offshore teams, helping individuals grow technically and contribute effectively across customer projects.</li>
-            <li>Guide solution advisory and architecture direction across enterprise customer engagements, converting business problems into target-state architectures, transition paths and delivery recommendations.</li>
+            <li>Lead 7 direct reports across onshore and offshore teams, supporting growth, delivery performance, technical confidence and career development.</li>
+            <li>Influence a broader practice of 15+ members through engineering standards, architecture guidance, delivery practices, mentoring and reusable ways of working.</li>
+            <li>Guide solution advisory and architecture direction across customer engagements, converting business problems into target-state architectures, transition paths and delivery recommendations.</li>
             <li>Support customer advisory, discovery, estimation and proposal work by shaping solution options, architecture recommendations and business-value narratives.</li>
-            <li>Build reusable practice guidance across architecture, Git discipline, SAP BTP development practices, solution delivery quality and AI-assisted engineering productivity.</li>
+            <li>Balance people leadership, customer expectations, commercial priorities, technical advisory and hands-on solution architecture responsibilities.</li>
           </ul>
         </article>
         <article class="role">
@@ -493,216 +273,47 @@
     <section id="projects" aria-labelledby="projects-title">
       <p class="section-kicker">Project portfolio</p>
       <h2 class="section-title" id="projects-title">Selected project experience in detail</h2>
-      <p class="section-desc">Representative engagements showing solution advisory, cross-team leadership, business-value translation and delivery support. Content is written at a public portfolio level and avoids confidential customer implementation details.</p>
+      <p class="section-desc">Representative engagements showing cross-team leadership, solution advisory, product/platform thinking, business-value translation and delivery support. Content is public-safe and avoids confidential implementation details.</p>
+      <div class="project-grid">
+        <article class="project"><div class="project-top"><div><h3>Zespri Supplier Portal</h3><p class="subtitle">Solutions Architect · SAP BTP · Supplier Collaboration · Jul 2025 - Jun 2026</p></div><div class="tag-row"><span class="tag">Digital Platform</span><span class="tag">BTP</span><span class="tag">Identity</span><span class="tag">Integration</span></div></div><div class="project-body"><div class="problem"><strong>Business problem</strong>Supplier collaboration relied on fragmented spreadsheet-driven interactions and needed a governed digital model for planning, purchase order visibility and quality reporting.</div><div><ul><li>Led solution advisory and guided business, supplier operations, architecture, integration, identity, data and delivery teams.</li><li>Reframed the problem into a supplier-facing digital platform with role-based, supplier-scoped access.</li><li>Guided solution direction across user experience, functional requirements, API contracts, identity and authorisation.</li><li>Helped functional, technical and testing teams move through solution clarification, system integration testing support and cutover readiness.</li></ul><p class="outcome">Outcome: Reduced ambiguity, improved delivery confidence and created reusable platform foundations for supplier digital transformation.</p></div></div></article>
 
-      <div class="project-grid" style="margin-top: 28px;">
-        <article class="project">
-          <div class="project-top">
-            <div>
-              <h3>Zespri Supplier Portal</h3>
-              <p class="subtitle">Solutions Architect · SAP BTP · Supplier Collaboration · Jul 2025 - Jun 2026</p>
-            </div>
-            <div class="tag-row"><span class="tag">SAP BTP</span><span class="tag">Supplier Portal</span><span class="tag">Identity</span><span class="tag">Integration</span></div>
-          </div>
-          <div class="project-body">
-            <div class="problem"><strong>Business problem</strong>Zespri needed to move supplier collaboration away from fragmented spreadsheet-driven interactions into a secure, governed digital experience across supplier planning, purchase order visibility and quality reporting.</div>
-            <div>
-              <ul>
-                <li>Led solution advisory and guided cross-functional teams across business stakeholders, supplier operations, architecture, integration, identity, data and delivery.</li>
-                <li>Reframed the supplier collaboration model into a governed portal covering pack plans, actualised forecasts, planned packing requirements, fruit purchase orders and quality reporting.</li>
-                <li>Guided solution direction across supplier-scoped authorisation, role-based access, user experience, functional requirements and API contracts.</li>
-                <li>Guided functional, technical and testing teams through solution clarification, API decisions, system integration testing support and cutover readiness.</li>
-              </ul>
-              <p class="outcome">Outcome: Improved solution confidence, reduced delivery ambiguity and created reusable platform foundations for supplier digital transformation.</p>
-            </div>
-          </div>
-        </article>
+        <article class="project"><div class="project-top"><div><h3>Zespri Business-to-Business Third-Party Logistics</h3><p class="subtitle">Solutions Architect · Integration Advisory · Logistics Enhancements · Jul 2025 - Jun 2026</p></div><div class="tag-row"><span class="tag">Logistics</span><span class="tag">Integration</span><span class="tag">Testing</span><span class="tag">Rollout</span></div></div><div class="project-body"><div class="problem"><strong>Business problem</strong>The logistics stream needed clearer solution direction, integration understanding and readiness support across change requests, testing cycles and regional rollout considerations.</div><div><ul><li>Provided solution advisory and guided business, integration, testing and delivery teams across logistics enhancements.</li><li>Led solution playbacks that converted integration findings into business-readable risks and decision areas.</li><li>Guided solution-quality reviews across system integration testing, user acceptance testing, integration behaviour and automation considerations.</li><li>Clarified dependencies, integration considerations and solution risks across regional rollout activities.</li></ul><p class="outcome">Outcome: Improved business alignment, reduced delivery ambiguity and lowered risk across logistics enhancement work packages.</p></div></div></article>
 
-        <article class="project">
-          <div class="project-top">
-            <div>
-              <h3>Zespri Business-to-Business Third-Party Logistics</h3>
-              <p class="subtitle">Solutions Architect · Integration Advisory · Logistics Enhancements · Jul 2025 - Jun 2026</p>
-            </div>
-            <div class="tag-row"><span class="tag">Logistics</span><span class="tag">Integration</span><span class="tag">Testing</span><span class="tag">Rollout Readiness</span></div>
-          </div>
-          <div class="project-body">
-            <div class="problem"><strong>Business problem</strong>The logistics stream required clearer solution direction, integration understanding and readiness support across change requests, testing cycles and regional rollout considerations.</div>
-            <div>
-              <ul>
-                <li>Provided solution advisory and guided business, integration, testing and delivery teams across third-party logistics enhancements.</li>
-                <li>Led solution playbacks with business owners and delivery teams, translating integration findings into business-readable risks and solution decisions.</li>
-                <li>Guided solution-quality reviews across system integration testing, user acceptance testing, integration behaviour and automation considerations.</li>
-                <li>Supported regional rollout readiness by clarifying dependencies, integration considerations and solution risks.</li>
-              </ul>
-              <p class="outcome">Outcome: Reduced ambiguity across solution work packages and helped progress logistics enhancements with stronger business alignment and lower delivery risk.</p>
-            </div>
-          </div>
-        </article>
+        <article class="project"><div class="project-top"><div><h3>Toll Group</h3><p class="subtitle">Solutions Architect · Hybrid Cloud and Platform Advisory · Oct 2025 - Mar 2026</p></div><div class="tag-row"><span class="tag">Hybrid Cloud</span><span class="tag">Sovereign Cloud</span><span class="tag">Platform Governance</span><span class="tag">Mobility</span></div></div><div class="project-body"><div class="problem"><strong>Business problem</strong>Toll needed architecture guidance for a hybrid platform landscape spanning Sovereign Cloud and Commercial Cloud while supporting integration, mobility and shared platform capabilities.</div><div><ul><li>Provided solution and architecture advisory for hybrid platform adoption across SAP BTP, integration, mobility and shared services.</li><li>Guided platform, integration, security, mobility and enterprise architecture teams across tenancy, workload placement and cost-control decisions.</li><li>Balanced near-term product and delivery needs with scalable future platform direction.</li><li>Contributed to solution options across enterprise resource planning, transport management and proof-of-delivery scenarios.</li></ul><p class="outcome">Outcome: Improved platform decision-making, reduced delivery friction and built confidence for future integration and mobility initiatives.</p></div></div></article>
 
-        <article class="project">
-          <div class="project-top">
-            <div>
-              <h3>Toll Group</h3>
-              <p class="subtitle">Solutions Architect · SAP BTP Platform Advisory · Hybrid Cloud Governance · Oct 2025 - Mar 2026</p>
-            </div>
-            <div class="tag-row"><span class="tag">Hybrid Cloud</span><span class="tag">Sovereign Cloud</span><span class="tag">BTP Governance</span><span class="tag">Mobility</span></div>
-          </div>
-          <div class="project-body">
-            <div class="problem"><strong>Business problem</strong>Toll needed architecture guidance for a hybrid SAP BTP landscape spanning Sovereign Cloud and Commercial Cloud while supporting integration, mobility and shared platform capabilities.</div>
-            <div>
-              <ul>
-                <li>Provided solution and architecture advisory for a hybrid SAP BTP landscape across Sovereign Cloud and Commercial Cloud.</li>
-                <li>Guided platform, integration, security, mobility and enterprise architecture teams across tenancy, workload placement, cost control and environment separation decisions.</li>
-                <li>Balanced immediate delivery needs for WeDrive, SAP Integration Suite, mobile services, spatial services and shared platform capabilities with a scalable platform direction.</li>
-                <li>Contributed to solution options and integration design considerations across enterprise resource planning, SAP S/4HANA and transport management scenarios.</li>
-              </ul>
-              <p class="outcome">Outcome: Improved platform decision-making, reduced delivery friction and built confidence for future integration and mobility initiatives.</p>
-            </div>
-          </div>
-        </article>
+        <article class="project"><div class="project-top"><div><h3>Konica Minolta</h3><p class="subtitle">Solutions Architect · Strategic Platform Advisory · Customer Service Architecture · Sep 2025 - Oct 2025</p></div><div class="tag-row"><span class="tag">Platform Strategy</span><span class="tag">ServiceNow</span><span class="tag">SAP Service Cloud</span><span class="tag">TCO</span></div></div><div class="project-body"><div class="problem"><strong>Business problem</strong>Customer service processes were spread across multiple systems, causing manual handoffs, duplicated data, limited service visibility and platform decision complexity.</div><div><ul><li>Balanced business, service operations, architecture and commercial perspectives during strategic solution advisory.</li><li>Analysed fragmented processes across ServiceNow, CRM, SAP S/4HANA and field service applications.</li><li>Connected platform options to operating model impact, cost, integration effort and business value.</li><li>Guided future-state service architecture options for a more unified customer service operating model.</li></ul><p class="outcome">Outcome: Helped stakeholders understand the business and technology implications of platform choices.</p></div></div></article>
 
-        <article class="project">
-          <div class="project-top">
-            <div>
-              <h3>Konica Minolta</h3>
-              <p class="subtitle">Solutions Architect · Strategic Platform Advisory · Customer Service Architecture · Sep 2025 - Oct 2025</p>
-            </div>
-            <div class="tag-row"><span class="tag">ServiceNow</span><span class="tag">SAP Service Cloud</span><span class="tag">TCO</span><span class="tag">Service Architecture</span></div>
-          </div>
-          <div class="project-body">
-            <div class="problem"><strong>Business problem</strong>Customer service processes were spread across multiple systems, creating manual handoffs, duplicated data, limited service visibility and platform decision complexity.</div>
-            <div>
-              <ul>
-                <li>Supported strategic solution advisory for the future customer service platform, balancing business, service operations, architecture and commercial perspectives.</li>
-                <li>Analysed fragmented service processes across ServiceNow, CRM, SAP S/4HANA and field service applications.</li>
-                <li>Provided advisory input into total cost of ownership comparison, solution options assessment and integration impact analysis.</li>
-                <li>Guided the team in shaping future-state service architecture options for a more unified SAP-aligned operating model.</li>
-              </ul>
-              <p class="outcome">Outcome: Helped connect solution options to operating model impact, cost, integration effort and business value.</p>
-            </div>
-          </div>
-        </article>
+        <article class="project"><div class="project-top"><div><h3>Aurizon</h3><p class="subtitle">Solutions Architect · Platform Foundation Advisory · Enterprise Transformation Readiness · Jul 2025 - Aug 2025</p></div><div class="tag-row"><span class="tag">Platform Foundation</span><span class="tag">Clean Core</span><span class="tag">Integration</span><span class="tag">Lifecycle</span></div></div><div class="project-body"><div class="problem"><strong>Business problem</strong>Aurizon needed platform foundation advisory ahead of broader ERP transformation, including governance, identity, integration, development operations and lifecycle management.</div><div><ul><li>Led platform foundation advisory and guided cross-team input across identity, integration, operations and lifecycle areas.</li><li>Provided thought leadership on clean core, API-first integration, security, cost transparency and delivery agility.</li><li>Converted architecture findings into current-state risks, target-state options and transition steps.</li><li>Facilitated customer playback sessions to improve shared understanding and decision confidence.</li></ul><p class="outcome">Outcome: Created a structured foundation for platform adoption and improved confidence in the enterprise transformation roadmap.</p></div></div></article>
 
-        <article class="project">
-          <div class="project-top">
-            <div>
-              <h3>Aurizon</h3>
-              <p class="subtitle">Solutions Architect · SAP BTP Foundation Advisory · Enterprise Transformation Readiness · Jul 2025 - Aug 2025</p>
-            </div>
-            <div class="tag-row"><span class="tag">BTP Foundation</span><span class="tag">Clean Core</span><span class="tag">Integration</span><span class="tag">Cloud ALM</span></div>
-          </div>
-          <div class="project-body">
-            <div class="problem"><strong>Business problem</strong>Aurizon needed SAP BTP foundation advisory ahead of broader ERP transformation, including platform governance, identity, integration, development operations and lifecycle management considerations.</div>
-            <div>
-              <ul>
-                <li>Led SAP BTP foundation advisory and guided cross-team input across platform, identity, integration, development operations and lifecycle management.</li>
-                <li>Assessed governance, SAP Cloud Identity Services, SAP Integration Suite, development operations and SAP Cloud ALM.</li>
-                <li>Provided thought leadership on clean core principles, API-first integration, security, cost transparency and delivery agility.</li>
-                <li>Led customer playback sessions that converted architecture findings into risks, target-state options and practical transition steps.</li>
-              </ul>
-              <p class="outcome">Outcome: Helped create a structured foundation for platform adoption and improved confidence in the enterprise transformation roadmap.</p>
-            </div>
-          </div>
-        </article>
+        <article class="project"><div class="project-top"><div><h3>Ausgrid</h3><p class="subtitle">Solutions Architect · Platform Governance Advisory · Jul 2025 - Aug 2025</p></div><div class="tag-row"><span class="tag">Governance</span><span class="tag">Identity</span><span class="tag">Integration Suite</span><span class="tag">Cost Transparency</span></div></div><div class="project-body"><div class="problem"><strong>Business problem</strong>Ausgrid needed clearer platform governance to support secure, scalable and cost-transparent adoption across a complex enterprise landscape.</div><div><ul><li>Guided architecture, integration, identity and platform teams across governance considerations.</li><li>Reviewed account governance, identity, Cloud ALM, legacy environment considerations and development operations maturity.</li><li>Assessed migration readiness from legacy integration platforms to SAP Integration Suite.</li><li>Translated architecture findings into business recommendations and transition steps.</li></ul><p class="outcome">Outcome: Helped define a stronger target-state platform governance model with clearer ownership, security and cost-control direction.</p></div></div></article>
 
-        <article class="project">
-          <div class="project-top">
-            <div>
-              <h3>Ausgrid</h3>
-              <p class="subtitle">Solutions Architect · SAP BTP Assessment · Platform Governance Advisory · Jul 2025 - Aug 2025</p>
-            </div>
-            <div class="tag-row"><span class="tag">BTP Governance</span><span class="tag">Identity</span><span class="tag">Integration Suite</span><span class="tag">Cost Transparency</span></div>
-          </div>
-          <div class="project-body">
-            <div class="problem"><strong>Business problem</strong>Ausgrid needed clearer SAP BTP governance to support secure, scalable and cost-transparent adoption across a complex enterprise landscape.</div>
-            <div>
-              <ul>
-                <li>Led an SAP BTP assessment by guiding architecture, integration, identity and platform teams across governance considerations.</li>
-                <li>Reviewed account governance, identity services, SAP Cloud ALM, legacy SAP Neo considerations and development operations maturity.</li>
-                <li>Assessed migration readiness from SAP Process Integration and Process Orchestration to SAP Integration Suite.</li>
-                <li>Provided recommendations covering regulatory separation, ownership clarity, security compliance, cost transparency and platform scalability.</li>
-              </ul>
-              <p class="outcome">Outcome: Helped define a stronger target-state platform governance model with clearer business recommendations and transition steps.</p>
-            </div>
-          </div>
-        </article>
+        <article class="project"><div class="project-top"><div><h3>Super Retail Group</h3><p class="subtitle">Solutions Architect · Platform Assessment and Proposal · Jun 2025 - Jul 2025</p></div><div class="tag-row"><span class="tag">Platform Assessment</span><span class="tag">FinOps</span><span class="tag">Cloud ALM</span><span class="tag">Development Standards</span></div></div><div class="project-body"><div class="problem"><strong>Business problem</strong>The customer needed guidance on scaling a business technology platform beyond immediate integration needs in a structured, cost-aware and supportable way.</div><div><ul><li>Guided stakeholders and delivery teams on scalable platform adoption beyond immediate integration needs.</li><li>Provided advisory across governance, application development guidance, lifecycle management, financial operations and infrastructure automation.</li><li>Helped define practical recommendations for monitoring, cost visibility, development consistency and operational readiness.</li><li>Positioned the platform as a foundation for future enterprise initiatives.</li></ul><p class="outcome">Outcome: Provided a clearer path to structured, scalable and cost-aware platform adoption.</p></div></div></article>
 
-        <article class="project">
-          <div class="project-top">
-            <div>
-              <h3>Super Retail Group</h3>
-              <p class="subtitle">Solutions Architect · SAP BTP Assessment and Proposal · Platform Adoption · Jun 2025 - Jul 2025</p>
-            </div>
-            <div class="tag-row"><span class="tag">Platform Assessment</span><span class="tag">Cloud ALM</span><span class="tag">FinOps</span><span class="tag">Development Guidance</span></div>
-          </div>
-          <div class="project-body">
-            <div class="problem"><strong>Business problem</strong>Super Retail Group needed guidance on how to scale SAP BTP beyond immediate integration needs and use the platform in a structured, cost-aware and supportable way.</div>
-            <div>
-              <ul>
-                <li>Supported SAP BTP assessment and proposal activities, guiding stakeholders and delivery teams on scalable platform adoption.</li>
-                <li>Provided solution advisory across platform governance, application development guidance, SAP Cloud ALM, cloud financial operations and infrastructure automation.</li>
-                <li>Helped define practical recommendations to improve platform control, monitoring, cost visibility, development consistency and operational readiness.</li>
-                <li>Positioned the platform as a structured foundation for future enterprise initiatives including SAP SuccessFactors integration.</li>
-              </ul>
-              <p class="outcome">Outcome: Provided a clearer path to use SAP BTP in a more structured, scalable and cost-aware way.</p>
-            </div>
-          </div>
-        </article>
+        <article class="project"><div class="project-top"><div><h3>CSR</h3><p class="subtitle">Enterprise Solutions Architect · SAP Commerce · Azure · SAP BTP · Apr 2021 - Mar 2024</p></div><div class="tag-row"><span class="tag">Azure</span><span class="tag">Digital Identity</span><span class="tag">Commerce</span><span class="tag">Customer Self-Service</span></div></div><div class="project-body"><div class="problem"><strong>Business problem</strong>CSR required enterprise solution direction across digital identity, customer self-service, customer master, pricing, commerce and cloud migration patterns.</div><div><ul><li>Provided enterprise solution architecture across customer self-service, digital identity, customer master, pricing, commerce and Azure-based architecture.</li><li>Designed Azure AD B2C enterprise login patterns across digital applications.</li><li>Shaped target-state architecture for customer master, price catalogues, content management, ERP integration and self-service capabilities.</li><li>Supported teams through design options, sprint work packages, solution priorities and implementation guidance.</li></ul><p class="outcome">Outcome: Contributed to modernising customer onboarding, improving digital self-service and reducing operational complexity.</p></div></div></article>
 
-        <article class="project">
-          <div class="project-top">
-            <div>
-              <h3>CSR</h3>
-              <p class="subtitle">Enterprise Solutions Architect · SAP Commerce · Azure · SAP BTP · Apr 2021 - Mar 2024</p>
-            </div>
-            <div class="tag-row"><span class="tag">SAP Commerce</span><span class="tag">Azure AD B2C</span><span class="tag">Customer Self-Service</span><span class="tag">Enterprise Architecture</span></div>
-          </div>
-          <div class="project-body">
-            <div class="problem"><strong>Business problem</strong>CSR required enterprise architecture direction across digital identity, customer self-service, customer master, pricing, SAP Commerce and cloud migration patterns.</div>
-            <div>
-              <ul>
-                <li>Provided enterprise solution architecture across customer self-service, digital identity, customer master, pricing, SAP Commerce and Azure-based architecture.</li>
-                <li>Designed Azure AD B2C-based enterprise login patterns for digital applications.</li>
-                <li>Helped shape target-state architecture for customer master, price catalogues, content management, ERP integration and self-service capabilities.</li>
-                <li>Supported teams through design options, sprint work package definition, solution priorities and implementation guidance.</li>
-              </ul>
-              <p class="outcome">Outcome: Contributed to modernising customer onboarding, improving digital self-service and reducing operational complexity.</p>
-            </div>
-          </div>
-        </article>
+        <article class="project"><div class="project-top"><div><h3>Earlier Product and Engineering Delivery</h3><p class="subtitle">TCS · Engineering Lead · Full Stack Developer · May 2015 - Mar 2021</p></div><div class="tag-row"><span class="tag">Java</span><span class="tag">React</span><span class="tag">Microservices</span><span class="tag">DevOps</span><span class="tag">Retail Platforms</span></div></div><div class="project-body"><div class="problem"><strong>Business problem</strong>Large-scale retail and B2B platforms needed reliable feature delivery, integration modernisation, cloud adoption, DevOps maturity and scalable engineering practices.</div><div><ul><li>Led and contributed to digital commerce, order management, B2B platform and store application delivery across major customer engagements.</li><li>Supported developers through solution design, code reviews, integration implementation and production-quality engineering outcomes.</li><li>Delivered solutions across Java, Spring, React, Python, Azure, GCP, microservices and SAP Commerce.</li><li>Established DevOps and infrastructure-as-code practices using Azure, Kubernetes, Terraform and CI/CD delivery environments.</li></ul><p class="outcome">Outcome: Built the hands-on engineering foundation behind later architecture, practice leadership and engineering management roles.</p></div></div></article>
       </div>
     </section>
 
     <section id="skills" aria-labelledby="skills-title">
-      <p class="section-kicker">Skills and keywords</p>
-      <h2 class="section-title" id="skills-title">Relevant for recruiters and hiring managers</h2>
+      <p class="section-kicker">Skills and recruiter keywords</p>
+      <h2 class="section-title" id="skills-title">Relevant across consulting and product companies</h2>
+      <p class="section-desc">Keywords are intentionally broad so the profile is discoverable for engineering leadership, platform leadership, architecture and product-delivery roles.</p>
       <div class="skills" aria-label="Skills list">
-        <span class="pill">Engineering Manager</span><span class="pill">Practice Lead</span><span class="pill">Solutions Architect</span><span class="pill">Principal Consultant</span><span class="pill">Delivery Engineering Lead</span><span class="pill">SAP BTP</span><span class="pill">SAP Commerce Cloud</span><span class="pill">SAP Integration Suite</span><span class="pill">SAP Cloud Identity Services</span><span class="pill">SAP Cloud ALM</span><span class="pill">SAP CAP</span><span class="pill">SAP Fiori</span><span class="pill">AWS</span><span class="pill">Azure</span><span class="pill">GCP</span><span class="pill">Java</span><span class="pill">Node.js</span><span class="pill">React</span><span class="pill">Microservices</span><span class="pill">API Architecture</span><span class="pill">Integration Architecture</span><span class="pill">DevOps</span><span class="pill">GitOps</span><span class="pill">Kubernetes</span><span class="pill">Docker</span><span class="pill">Terraform</span><span class="pill">People Leadership</span><span class="pill">Customer Advisory</span><span class="pill">Architecture Governance</span><span class="pill">Capability Uplift</span>
+        <span class="pill">Engineering Manager</span><span class="pill">Practice Lead</span><span class="pill">People Manager</span><span class="pill">Solutions Architect</span><span class="pill">Principal Consultant</span><span class="pill">Delivery Engineering Lead</span><span class="pill">Platform Engineering</span><span class="pill">Product Engineering</span><span class="pill">Cloud Architecture</span><span class="pill">AWS</span><span class="pill">Azure</span><span class="pill">GCP</span><span class="pill">Java</span><span class="pill">Spring</span><span class="pill">Node.js</span><span class="pill">React</span><span class="pill">Microservices</span><span class="pill">API Architecture</span><span class="pill">Integration Architecture</span><span class="pill">DevOps</span><span class="pill">GitOps</span><span class="pill">Kubernetes</span><span class="pill">Docker</span><span class="pill">Terraform</span><span class="pill">SAP BTP</span><span class="pill">SAP Commerce</span><span class="pill">SAP Integration Suite</span><span class="pill">Stakeholder Management</span><span class="pill">Customer Advisory</span><span class="pill">Capability Uplift</span>
       </div>
     </section>
 
     <section id="contact" class="contact" aria-labelledby="contact-title">
       <div>
-        <h2 id="contact-title">Looking for a leader who can connect people, architecture and delivery?</h2>
-        <p>I am open to roles where engineering leadership, solution architecture, consulting advisory and business-value delivery are equally important.</p>
+        <h2 id="contact-title">Looking for a leader who can connect people, product thinking, architecture and delivery?</h2>
+        <p>I am open to roles where engineering leadership, solution architecture, product/platform thinking and business-value delivery are equally important.</p>
       </div>
-      <div class="hero-actions" style="margin: 0;">
-        <a class="btn primary" href="mailto:abdulrahman.mars@gmail.com">Email me</a>
-        <a class="btn" href="https://www.linkedin.com/in/abdulrahmansheikhm" target="_blank" rel="noopener">LinkedIn</a>
-        <a class="btn" href="https://github.com/abdulrahmansheikh" target="_blank" rel="noopener">GitHub</a>
-      </div>
+      <div class="hero-actions" style="margin: 0;"><a class="btn primary" href="mailto:abdulrahman.mars@gmail.com">Email me</a><a class="btn" href="https://www.linkedin.com/in/abdulrahmansheikhm" target="_blank" rel="noopener">LinkedIn</a><a class="btn" href="https://github.com/abdulrahmansheikh" target="_blank" rel="noopener">GitHub</a></div>
     </section>
   </main>
 
-  <footer>
-    <div class="page">
-      © <span id="year"></span> Abdul Rahman Sheikh. Public portfolio summary. Project descriptions are intentionally written at a non-confidential level.
-    </div>
-  </footer>
-
-  <script>
-    document.getElementById('year').textContent = new Date().getFullYear();
-  </script>
+  <footer><div class="page">© <span id="year"></span> Abdul Rahman Sheikh. Public portfolio summary. Project descriptions are intentionally written at a non-confidential level.</div></footer>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
 </body>
 </html>
