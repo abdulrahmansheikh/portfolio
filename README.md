@@ -1,266 +1,242 @@
-# Abdul Rahman Sheikh Mohamed Basheer  
-**Principal Engineer | Solutions Architect**  
+# Abdul Rahman Sheikh
 
-📱 Mobile: 0469 339 690  
-📧 Email: [abdulrahman.mars@gmail.com](mailto:abdulrahman.mars@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/abdulrahmansheikhm](https://www.linkedin.com/in/abdulrahmansheikhm)  
-📍 Location: Sydney, NSW  
-🛂 Citizenship: Australian Citizen  
+**Practice Lead | Engineering Manager | Principal Consultant | Solutions Architect**  
+Sydney, Australia  
+Email: [abdulrahman.mars@gmail.com](mailto:abdulrahman.mars@gmail.com)  
+LinkedIn: [linkedin.com/in/abdulrahmansheikhm](https://www.linkedin.com/in/abdulrahmansheikhm)
 
 ---
 
-## 🧭 Overview
+## Overview
 
-Experienced and outcome-focused Principal Engineer and Solutions Architect with over 10 years of experience designing and delivering scalable, secure, high-performance platforms in complex enterprise environments. I specialise in Java, Spring Boot, and cloud-native engineering across AWS, Azure, and SAP BTP.
+I am a solution architecture and engineering leader with experience leading engineers, guiding cross-functional delivery teams, and solving complex business problems through practical, scalable technology solutions.
 
-Recognised for leading cross-functional teams, setting engineering direction, and influencing architecture across platforms. I combine technical depth with strong leadership, coaching engineers, shaping delivery culture, and fostering innovation. Strong advocate for DevSecOps and GitOps, aligning product strategy with architecture in Agile, product-led teams.
+My current role combines **Practice Lead, People Manager, Principal Consultant and Solutions Architect** responsibilities. I lead and mentor engineers across Australia and offshore teams, support delivery quality, shape solution direction for customers, contribute to pre-sales and advisory work, and remain hands-on in architecture decisions across SAP Business Technology Platform, SAP Commerce, integration, cloud platforms and enterprise applications.
 
----
-
-## 💼 Experience Summary
-
-### Technical & Leadership Expertise
-
-- Proven track record designing scalable, maintainable, and high-performance web applications, primarily in Java-based environments.
-- Deep experience in product-centric Agile delivery, with a strong understanding of translating business needs into robust, user-focused solutions.
-- Skilled at building cloud-native and hybrid architectures on Microsoft Azure, AWS, and SAP BTP, ensuring alignment with compliance, security, and operational requirements.
-- Expertise in modern software design patterns, including microservices, event-driven architectures, and API-driven platforms, enabling resilient and extensible solutions.
-- Strong advocate for DevSecOps and GitOps, implementing automated CI/CD pipelines and infrastructure as code, and embedding security and governance into the software delivery lifecycle.
-
-### Team Enablement & Talent Development
-
-- Planned and led structured upskilling programs for internal and client teams and facilitated brown bag sessions, technical workshops, and knowledge-sharing forums to promote engineering maturity.
-- Mentored and managed engineers across all levels and led onshore and offshore teams' recruitment, onboarding, and team development initiatives.
-- Worked closely with AWS partner teams (Solutions Architects, Account Managers) to deliver co-designed POCs and accelerators, aligning innovations with customer outcomes.
-
-
-### Business-Aligned Solution Architecture
-
-- Extensive experience bridging business strategy with practical, technology-agnostic architectures that are implementation-ready and support complex transformation and modernisation programs.
-- Delivered customer-centric omnichannel platforms and self-service portals across diverse sectors such as property, construction, utilities, and FMCG, focusing on seamless user experiences tailored to various personas.
-- Led digital process transformation initiatives that reduced manual effort, improved operational transparency, and enhanced stakeholder engagement through workflow-driven and low-code automation solutions.
-- Acted as a trusted architectural advisor across governance forums and stakeholder engagements, aligning technical solutions with enterprise roadmaps and business value outcomes.
-
-
-### Engineering Mindset & Delivery Ownership
-
-- Hands-on with full-stack development, integration, and cloud operations, balancing innovative architecture with pragmatic, outcome-driven delivery.
-- Committed to mentoring engineers, fostering collaborative team cultures, and driving continuous technical improvement and knowledge sharing.
-- Continuously explored and introduced new technologies and vendor capabilities to uplift team delivery and increase customer value.
+I work best where business, architecture and engineering need to come together. I help teams move from unclear business problems to structured solution options, delivery paths and measurable business outcomes.
 
 ---
 
-## 🎯 Area of Expertise
+## What I Bring
 
-
-| Category                  | Skills/Technologies                                                                                                              |
-|----------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| **Architecture Patterns**  | Event-driven, Microservices, SOA, Serverless, Reactive, MVC, Circuit-breaker, Reactive Programming                    |
-| **Cloud Platforms**        | AWS, Azure, SAP                                                                                                        |
-| **Programming Languages & Frameworks** | Java / J2EE, Spring Boot, Spring MVC, Kotlin, Scala, Node.js, Express JS, React, Angular, Spartacus      |
-| **Databases**              | MSSQL, MySQL, SAP HANA, AWS RDS, Amazon DynamoDB, Aurora, MongoDB, PostgreSQL, InfluxDB                               |
-| **DevOps & CI/CD**         | Kubernetes, Helm, ArgoCD, Flux, Jenkins, Shell Scripting, Azure DevOps, GitHub Actions, AWS CodePipeline, CodeBuild, CodeDeploy |
-| **SaaS & Enterprise Platforms** | SAP Commerce Cloud, SAP BTP                                                                                  |
-| **Infrastructure as Code** | Terraform, Terragrunt, AWS CloudFormation, AWS CDK, Azure ARM Templates                                               |
-| **Build Tools**            | Docker, Ant, Maven, Packer, Groovy, Gradle, Grunt, Gulp                                                               |
-| **Testing & QA Tools**     | Katalon, Apache JMeter, JUnit, Mockito, Gatling, Postman                                                              |
-| **Identity & Security**    | OpenID Connect, OAuth2, Azure AD B2C, SAP IAS/IPS, Okta, SonarQube, ECR, AWS Guardrails, AWS Control Tower            |
-| **Monitoring & Observability** | AppDynamics, Splunk, OpenSearch, ELK, Kibana, AWS CloudWatch, Azure Monitor, Prometheus, Grafana              |
-| **Development Methodologies** | Pair Programming (XP), Test-Driven Development (TDD), Behaviour-Driven Development (BDD)                         |
-| **Delivery Methodologies**        | Agile, Waterfall, Lean, Scrum, SAFe, Rapid Application Development (RAD), Value Engineering, Incremental Delivery, Design Thinking |
-| **Team Leadership & Management** | Technical Leadership, Stakeholder Engagement, Team Enablement, Hiring, Coaching, Mentoring, Performance Management, Cross-functional Team Leadership, Capability Building, Engineering Culture, Change Management |
+- **Engineering and people leadership** — lead, mentor and support engineers while improving delivery behaviours, technical standards and team capability
+- **Solution advisory** — translate business problems into practical solution options, target-state architecture and delivery recommendations
+- **Cross-functional leadership** — guide business, architecture, engineering, integration, identity, security, testing and delivery teams through complex decisions
+- **Business-value architecture** — connect solution decisions to operating model impact, cost, risk, scalability, user experience and long-term supportability
+- **Delivery confidence** — reduce ambiguity, clarify risks, guide technical trade-offs and improve alignment between solution intent and delivery execution
+- **Practice development** — contribute to reusable delivery practices, architecture guidance, Git discipline, development standards and AI-assisted engineering productivity
 
 ---
 
-## 🎓 Education & Certifications
+## Target Career Direction
 
-- **SAP Certified BTP Application Developer (Extensibility with AWS)** – Dec 2023  
-- **SAP Development Associate – SAP HANA Cloud 1.0** – Nov 2023  
-- **SAP Product Specialist – SAP Commerce Cloud** – Oct 2023  
-- **AWS Certified Cloud Practitioner** – Jan 2022  
-- **AWS Solutions Architect Associate** – Jan 2021  
-- **Bachelor of Technology, ICT** – May 2015  
+I am focused on future roles that combine leadership, architecture and delivery impact:
 
----
-
-## 🛠 Project History
-
-### FAIR Consulting Group, Sydney  
-**Solutions Architect**  
-*March 2021 – Present*
+- Engineering Manager
+- Practice Lead
+- Delivery Engineering Lead
+- Principal Solutions Architect
+- Architecture Practice Lead
+- Platform Engineering Lead
+- Head of Engineering - Enterprise Applications
+- Technology Consulting Lead
 
 ---
 
-#### **Ausgrid | Solution Advisory**
-*Jun 2024 – Present*  
-- Led architecture and advisory work for Ausgrid’s B2B platform transformation using BTP and Azure
-- Defined scalable governance and account modelling, improving security, provisioning, and cost controls.
-- Delivered an app development decision matrix to guide extensibility, BTP and hybrid cloud adoption.
-- Designed a DevOps plan covering CI/CD, versioning, and automated deployment for the applications and integration
-- Reviewed identity architecture, AD federation, SSO, and role provisioning.
-- Assessed Cloud ALM readiness and its integration with ServiceNow for monitoring and incident handling.
-- Ran stakeholder workshops to align platform direction across IT, architecture, and security teams.
+## Core Skills
 
-
-#### **Zespri | Digital Transformation - Case Management Portal Modernisation**  
-*Oct 2024 – Apr 2025*  
-- Platform Modernisation & Process Automation Leadership: Spearheaded comprehensive digital transformation initiative to automate manual claims processes and eliminate operational bottlenecks through intelligent workflow design.
-- Automated Process Reengineering: Architected guided validation workflows that reduced manual processing time by 70% and eliminated 100% of data entry errors through intelligent automation patterns
-- Event Driven Integration Architecture: Designed a scalable integration layer using SAP BTP Integration Suite, enabling seamless data flow between 5+ systems using advanced event mesh and reducing processing latency by 99.99%.
-- Strategic Process Transformation Impact: Delivered enterprise-grade automation solution that transformed single-claim workflows into multi-claim processing capabilities, increasing support team productivity by 3x while enhancing customer satisfaction scores.
-- Positioned platform for expansion into a broader customer self-service experience aligned with enterprise goals.
-- Recognised for innovation and impact, shortlisted for three prestigious Supply Chain Excellence Awards: Digital Transformation, Retail & E-Commerce, and Food & Drink.
-
-#### **Rawson Group | Mobile App Development - PO Management**  
-*Jun 2024 – Sep 2024*  
-- Mobile-First Process Automation for Construction: Led digital transformation of legacy PO management processes, eliminating paper-based workflows through an offline-capable mobile automation solution.
-- Legacy System Modernisation: Architected SAP MDK-based mobile application with offline synchronisation capabilities that reduced construction project delays by 25% and eliminated manual approval bottlenecks
-- Cloud-Hybrid Integration Patterns: Implemented seamless SAP S/4HANA integration architecture, enabling real-time PO processing from remote sites, improving approval cycle times by 60%
-- Construction Process Revolution: Delivered end-to-end mobile automation solution that transformed field operations, enabling 200+ construction workers to process POs digitally and reducing project delivery timelines by 25%.
-
-#### **Enterprise CI/CD Automation Platform**  
-*Apr 2024 – Present*  
-- SaaS-Based Process Automation Architecture: Architected a comprehensive CI/CD automation platform addressing enterprise deployment challenges through standardised cloud integration patterns and automated governance workflows.
-- Multi-Cloud Process Automation: Designed and implemented AWS-native CI/CD workflows that supported independent deployments across backend, frontend, and microservices. Streamlined the delivery process, cutting deployment times by 70% and removing the need for manual intervention.
-- Security-First Integration Patterns: Introduced automated security checks, compliance validation, and governance workflows using AWS tools. These measures boosted compliance to 99.9% and significantly reduced manual auditing work, saving time and improving consistency.
-- Enterprise Automation Excellence: Delivered a scalable SaaS platform serving 5+ enterprise customers with automated deployment capabilities, generating 40% cost savings through infrastructure optimisation and process standardisation.
-
-
-#### **AI-Powered Content Automation**  
-*Jan 2024 – Mar 2024*  
-- Generative AI Process Integration: Led the design of an intelligent content automation solution by integrating AWS AI services with SAP Commerce. Transformed manual content creation processes into automated workflows that consistently reflect the brand’s standards.
-- Automated Content Generation Workflows: Implemented AWS Bedrock to automate content generation, translation, and SEO optimisation - increased content production time by 80%.
-Serverless Integration Architecture: Designed a Lambda-based microservices architecture with API Gateway integration, enabling seamless AI-powered workflows with 99.9% uptime and sub-second response times
-- Content Process Revolution: Delivered an AI-powered automation solution that transformed manual content workflows, enabling marketing teams to generate brand-aligned content 10x faster while maintaining quality standards.
-
-#### **CSR | Event-Driven Process Automation**  
-*Oct 2023 – Dec 2023*  
-- Serverless Process Orchestration: Designed an event-driven automation solution transforming synchronous SAP Commerce workflows into an asynchronous, scalable microservices architecture.
-- Webhook-to-Workflow Automation: Designed event-based solution handling 10,000+ daily events with 99.95% reliability, eliminating manual intervention and reducing processing delays by 90%
-- Asynchronous Integration Patterns: Implemented SNS/SQS messaging architecture, enabling precise event filtering and routing, improving system responsiveness by 75% and reducing infrastructure costs by 35%
-- Enterprise Event Automation Success: Delivered serverless automation platform processing 3M+ annual events with zero downtime, enabling real-time business process automation across multiple enterprise systems.
-
-#### **CSR | Customer Onboarding and Self-Service Portal**  
-*Feb 2023 – Sep 2023*  
-- Enterprise Platform Modernisation & Cloud Migration: Led comprehensive digital transformation initiative modernising monolithic e-commerce architecture into an automated microservices ecosystem while orchestrating seamless AWS-to-Azure migration.
-- Automated Self-Service Process Architecture: Designed intelligent customer self-service workflows, reducing manual support interventions by 70% and improving service efficiency through automated onboarding processes using SAP BTP and Azure integration patterns
-- Content & Dynamic Price Catalog: Led redesign of price and content management flows, enabling dynamic catalogue generation and location-specific pricing, improving accuracy by 70%.
-- Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B2C authentication solution enabling seamless SSO across all digital platforms, eliminating authentication bottlenecks and reducing login-related support tickets by 85%
-- Enterprise Automation Excellence: Delivered cloud-native transformation enabling automated customer pricing, location-based services, and ERP integration (ECC & S4), resulting in 60% faster customer onboarding and enhanced operational efficiency across all business channels.
-
-#### **IPF | Digital Transformation**  
-*Feb 2022 – Jan 2023*  
-- Led digital transformation across sales and service, enhancing portal usability and internal efficiency.
-- Architected an end-to-end solution integrating SAP Commerce, BTP, and ECC via SAP Integration Suite, reducing manual quoting effort by 60%.
-- Implemented OpenID-based SSO and SAP APIM policies across systems, increasing secure access and API reuse 3x.
-- Delivered scalable architecture patterns that streamlined order-to-cash processes, aligning with automation goals and cloud-native design.
-
-#### **CSR | Product and Content Management Automation**  
-*Aug 2021 – Jan 2022*  
-- Modernised fragmented product data systems into a unified PIM solution with automated data flows.
-- Designed and deployed cloud-first architecture using SAP Integration Suite to automate Commerce PIM updates, reducing data latency by 75%.
-- Developed reusable services for outbound/inbound integrations and governance across PIM and ECC, improving data accuracy by 80%.
-- Strengthened enterprise alignment through future-proof, standards-based architecture tailored for growth and automation.
-
-#### **Asaleo Care | Multi-Site Digital Platform Optimisation**  
-*Jul 2021 – Aug 2021*  
-- Enabled B2B and B2C consolidation under a single platform while optimising deployment and infrastructure.
-- Delivered zero-downtime, multi-site deployment on SAP Commerce with rollback automation, reducing cutover time by 50%.
-- Integrated code quality gates (SonarQube) and branching strategies, enhancing cross-team productivity and release stability.
-- Elevated platform scalability by resolving infra licensing constraints through architecture reuse and shared services.
- 
-#### **CSR | Enterprise Digital  Architecture Strategy**  
-*Apr 2021 – Jul 2021*  
-- Defined an architecture strategy for a complex multi-cloud landscape with diverse enterprise apps and legacy systems.
-- Conducted 10+ discovery workshops to map and rationalise Apps, Sites, CMS, CRM, ERP, PIM, and DAM, shaping architecture patterns for hybrid integration.
-- Developed cloud-native microservices blueprint (BTP, Kubernetes, Azure, AWS), guiding DevOps and infra best practices.
-- Enabled unified governance and digital presence by aligning business objectives with scalable technical architecture.
-
-#### **Best & Less | Mobile PWA Launch**  
-*Mar 2021 – Apr 2021*  
-- Accelerated mobile transformation via PWA without new app development, optimising time and cost.
-- Led design and rollout of a mobile-first PWA solution using the existing SAP Commerce backend, achieving MVP in under 6 weeks.
-- Delivered seamless UX across platforms, increasing mobile user engagement by 40% and reducing bounce rate by 30%.
-- Demonstrated ability to blend speed, scalability, and reusability in customer-facing channel innovations.
+| Area | Skills |
+| --- | --- |
+| Leadership | Engineering leadership, people management, mentoring, capability uplift, technical coaching, cross-functional leadership |
+| Architecture | Solution architecture, enterprise application architecture, platform architecture, integration architecture, API design, architecture governance |
+| Advisory | Customer advisory, pre-sales support, discovery, estimation, solution options, executive-ready recommendations, business-value translation |
+| Delivery | Agile delivery, delivery risk management, design clarification, technical trade-offs, solution-quality reviews, stakeholder alignment |
+| SAP | SAP BTP, SAP Commerce Cloud, SAP Integration Suite, SAP Cloud Identity Services, SAP IAS/IPS, SAP Cloud ALM, SAP CAP, SAP Fiori, SAP Build Work Zone, SAP Customer Data Cloud |
+| Cloud and DevOps | AWS, Azure, GCP, Kubernetes, Docker, GitOps, DevOps, Terraform, CI/CD, infrastructure as code |
+| Engineering | Java, Spring, Node.js, React, JavaScript, microservices, serverless, event-driven architecture, integration patterns |
 
 ---
 
-### Tata Consultancy Services, Sydney  
-**Lead Engineer / Team Lead / Developer**  
-*May 2015 – Mar 2021*
+## Recent Consulting and Delivery Experience
+
+### FAIR Consulting Group, Sydney
+**Practice Lead | People Manager | Principal Consultant | Solutions Architect**  
+*Mar 2021 - Present*
+
+#### Leadership, Practice and People Management
+
+- Lead, mentor and support engineers and consultants across Australia and offshore teams, helping individuals grow technically and contribute effectively across customer projects
+- Guide engineers through complex delivery situations by clarifying requirements, shaping solution options, reviewing design decisions and helping unblock technical and delivery risks
+- Support recruitment, technical evaluation and capability planning by identifying engineering strengths, gaps and fit for customer delivery needs
+- Build reusable practice guidance across architecture, Git discipline, SAP BTP development practices, solution delivery quality and AI-assisted engineering productivity
+- Balance people leadership, customer expectations, commercial priorities, technical advisory and hands-on solution architecture responsibilities
+
+#### Solution Architecture and Customer Advisory
+
+- Lead solution advisory and architecture direction across enterprise customer engagements, converting business problems into target-state architectures, transition paths and delivery recommendations
+- Guide cross-functional teams across business, engineering, architecture, integration, identity, security, testing and delivery to keep solution intent aligned with delivery execution
+- Translate architecture findings into business-readable risks, decision points and recommendations that support stakeholder confidence and delivery clarity
+- Support pre-sales and advisory work by shaping solution approaches, estimates, assumptions, delivery options and customer-ready recommendations
+- Build customer trust by providing pragmatic advice that balances business priorities, technology constraints, delivery risk and future-state architecture direction
 
 ---
 
-#### **BIG W | Digital Commerce Modernisation**  
-*May 2019 – Mar 2021*  
-- Transformed legacy monolithic retail platform into a scalable microservices architecture.
-- Decomposed core features into 20+ microservices and deployed containerised services using EKS, reducing infrastructure costs by 35%.
-- Led phased migration of SAP Hybris modules to Spring Boot apps with CI/CD on Jenkins, achieving a 50% reduction in release times.
-- Demonstrated cloud-native leadership by driving innovation, resilience, and speed in a mission-critical retail platform.
+## Selected Project Experience
 
-#### **Woolworths | Stock Alert App**  
-*Apr 2019 – May 2019*  
-- Developed an internal tool to improve stock accuracy and drive in-aisle accountability.
-- Delivered a single-page React app with GCP hosting, Google SSO, and real-time DB interaction, enhancing store efficiency within 2 weeks.
-- Designed backend in Python with phpMyAdmin to track alerts and user responses, enabling better stock reconciliation.
-- Proved ability to deliver quick-win solutions that address operational pain points with measurable impact.
+### Zespri Supplier Portal
+**Solutions Architect | SAP Business Technology Platform | Supplier Collaboration**  
+*Jul 2025 - Jun 2026*
 
-#### **TCS | Quiz & Learning Platform**  
-*Apr 2019 – May 2019*  
-- Empowered student engagement through an interactive, cloud-hosted learning portal.
-- Built a ReactJS-based quiz admin interface integrated with Firebase, enabling live question management and leaderboard insights.
-- Enabled secure access via Google SSO and automated GCP-based deployment pipelines, supporting 500+ student sessions.
-- Showcased agility and impact in delivering scalable educational tech with social outcomes.
+- Led solution advisory and guided cross-functional teams across business stakeholders, supplier operations, architecture, integration, identity, data and delivery to shape a modern supplier-facing portal on SAP BTP
+- Reframed fragmented, spreadsheet-driven supplier collaboration into a governed digital portal model covering pack plans, actualised forecasts, planned packing requirements, fruit purchase orders and quality reporting
+- Guided solution direction across identity, supplier-scoped authorisation, role-based access, user experience, functional requirements and API contracts, balancing usability, security and long-term supportability
+- Guided functional, technical and testing teams through solution clarification, API decisions, system integration testing support and cutover readiness, while keeping focus on business outcomes
+- Improved solution confidence by clarifying access patterns, reducing delivery ambiguity and enabling reusable platform foundations for Zespri’s supplier digital transformation
 
-#### **TCS | DevSecOps Enablement**  
-*Mar 2019 – Apr 2019*  
-- Built an organisation-wide DevSecOps framework to accelerate secure cloud onboarding.
-- Automated infra provisioning with Terraform and orchestrated Kubernetes workloads via AKS and FluxCD, improving setup times by 70%.
-- Applied GitOps and “Everything-as-Code” across infra, policies, CI/CD, and documentation, increasing reproducibility and reducing onboarding errors.
-- Delivered an enterprise-ready blueprint that modernised DevOps culture across business units.
+### Zespri Business-to-Business Third-Party Logistics
+**Solutions Architect | Integration Advisory | Logistics Enhancements**  
+*Jul 2025 - Jun 2026*
 
-#### **MITRE10 | Commerce Upgrade & Migration**  
-*Feb 2019 – Mar 2019*  
-- Engaged to provide SAP Commerce expertise and focused on resolving critical issues during the final transition phase.
-- Recommended integrating new SAP Commerce features into the business operations to realise added business value.
+- Provided solution advisory and guided business, integration, testing and delivery teams across third-party logistics enhancements, focusing on operational continuity and regional rollout readiness
+- Led solution playbacks with business owners and delivery teams, translating integration findings and process gaps into business-readable risks, solution decisions and action areas
+- Guided solution-quality reviews across system integration testing, user acceptance testing, integration behaviour and automation considerations, helping improve reliability of logistics processes
+- Supported regional rollout readiness by clarifying dependencies, integration considerations and solution risks across logistics enhancements
+- Reduced ambiguity across solution work packages and helped progress logistics enhancements with clearer direction, stronger business alignment and lower delivery risk
 
-#### **Woolworths B2B | Business Foundation**  
-*Oct 2018 – Feb 2019*  
-- Established an integrated B2B portal for diverse customer segments, including exporters and stores.
-- Designed and built Azure-based staging systems using Logic Apps and Function Apps for inbound/outbound integration with SAP Hybris.
-- Delivered custom OMS feeds, integrated with third-party systems, and implemented automated performance testing via JMeter and Grafana.
-- Enabled Woolworths to scale its wholesale operations with a stable, unified B2B platform.
+### Toll Group
+**Solutions Architect | SAP BTP Platform Advisory | Hybrid Cloud Governance**  
+*Oct 2025 - Mar 2026*
 
-#### **SiteOne (US) | B2B Portal**  
-*Aug 2017 – Sep 2018*  
-- Built a robust B2B portal serving the US & Canada market for SiteOne’s landscape supply network.
-- Led the design and rollout of a SAP Hybris-based e-commerce solution supporting multi-region B2B operations.
-- Integrated Okta for SSO and implemented advanced search using SOLR, improving customer onboarding and navigation.
-- Delivered a scalable and secure commerce solution tailored for large-scale wholesale operations.
+- Provided solution and architecture advisory for a hybrid SAP BTP landscape across Sovereign Cloud and Commercial Cloud
+- Guided platform, integration, security, mobility and enterprise architecture teams across tenancy structure, workload placement, cost control and environment separation decisions
+- Balanced immediate delivery needs for WeDrive, SAP Integration Suite, mobile services, spatial services and shared platform capabilities with a scalable future platform direction
+- Contributed to solution options and integration design considerations across Toll Global Express, Toll Transport Management System, enterprise resource planning, SAP S/4HANA and transport management scenarios
+- Helped improve platform decision-making, reduce delivery friction and build confidence for future integration and mobility initiatives
 
-#### **NAPA Online (US) | OMS Implementation**  
-*Jun 2017 – Jul 2017*  
-- Optimised sourcing and order management with Hybris OMS integration.
-- Contributed to OMS module development and Hybris sourcing logic, improving order processing times by 40%.
-- Helped align backend operations with North American distribution requirements.
-- Strengthened the reliability of critical supply chain flows in automotive retail.
+### Konica Minolta
+**Solutions Architect | Strategic Platform Advisory | Customer Service Architecture**  
+*Sep 2025 - Oct 2025*
 
-#### **EIS Inc | Commerce Transformation**  
-*Aug 2016 – May 2017*  
-- Migrated from old legacy platform to Hybris B2B platform and unified commerce across B2B/B2C channels.
-- Delivered full-stack Hybris implementation and integrated it with TIBCO for real-time data exchange with third-party systems.
-- Created reusable components and services, reducing time to market for future initiatives by 30%.
-- Set a foundation for scalable digital operations across EIS’s distribution business.  
+- Supported strategic solution advisory for the future customer service platform, balancing business, service operations, architecture and commercial perspectives
+- Analysed fragmented service processes across ServiceNow, CRM, SAP S/4HANA and field service applications, highlighting business impacts such as manual handoffs, duplicated data and limited service visibility
+- Provided advisory input into total cost of ownership comparison, solution options assessment and integration impact analysis, helping connect platform choices with business value and operational outcomes
+- Guided the team in shaping future-state service architecture options, showing how a more unified SAP-aligned solution could simplify operations, reduce long-term complexity and improve customer service visibility
+- Helped connect solution options to operating model impact, cost, integration effort and business value
 
-#### **TCS COE (R&D)**  
-*May 2015 – Jul 2016*  
-- Developed accelerators, demos, and reusable assets to drive SAP Commerce sales and delivery.
-- Created demo storefronts and utilities that became part of TCS’s global best practices library.
-- Delivered training and onboarding programs for new teams, accelerating project readiness.
+### Aurizon
+**Solutions Architect | SAP BTP Foundation Advisory | Enterprise Transformation Readiness**  
+*Jul 2025 - Aug 2025*
+
+- Led SAP BTP foundation advisory ahead of a broader enterprise resource planning transformation programme, guiding cross-team input across platform, identity, integration, development operations and lifecycle management considerations
+- Assessed platform governance, SAP Cloud Identity Services, SAP Integration Suite, development operations and SAP Cloud ALM, identifying gaps that could affect future delivery, security and scalability
+- Provided thought leadership on clean core principles, API-first integration, security, cost transparency and delivery agility to support future programme decisions
+- Led customer playback sessions and guided the team in converting architecture findings into clear current-state risks, target-state options and practical transition steps for future SAP S/4HANA and hybrid cloud initiatives
+- Helped create a structured foundation for platform adoption and improved confidence in the long-term enterprise transformation roadmap
+
+### Ausgrid
+**Solutions Architect | SAP BTP Assessment | Platform Governance Advisory**  
+*Jul 2025 - Aug 2025*
+
+- Led an SAP BTP assessment by guiding architecture, integration, identity and platform teams to bring together governance considerations for secure, scalable and cost-transparent adoption
+- Reviewed account governance, identity services, SAP Cloud ALM, legacy SAP Neo considerations and development operations maturity, helping clarify ownership and improvement areas
+- Assessed migration readiness from SAP Process Integration and Process Orchestration to SAP Integration Suite, helping stakeholders understand integration modernisation options and transition considerations
+- Provided advisory recommendations covering regulatory separation, ownership clarity, security compliance, cost transparency and long-term platform scalability
+- Guided the team in translating architecture findings into clear business recommendations, risks and transition steps for a stronger target-state platform governance model
+
+### Super Retail Group
+**Solutions Architect | SAP BTP Assessment and Proposal | Platform Adoption**  
+*Jun 2025 - Jul 2025*
+
+- Supported an SAP BTP assessment and proposal, guiding stakeholders and delivery teams on how to scale the platform beyond immediate integration needs
+- Provided solution advisory input and guided cross-team discussion across platform governance, application development guidance, SAP Cloud ALM, cloud financial operations and infrastructure automation
+- Helped define practical recommendations to improve platform control, monitoring, cost visibility, development consistency and operational readiness
+- Positioned the platform as a structured foundation for future enterprise initiatives, including SAP SuccessFactors integration and broader business technology adoption
+- Provided a clearer path to use SAP BTP in a more structured, scalable and cost-aware way, supported by stronger governance and solution direction
+
+### Zespri Claims Portal
+**CX and BTP Solutions Architect | SAP Commerce | Customer Portal Modernisation**  
+*Nov 2024 - May 2025*
+
+- Led solution design for an optimised Claims Portal built on SAP Commerce, focused on usability, integration consistency and future platform extensibility
+- Designed a scalable and maintainable integration approach, balancing standard integration patterns with pragmatic customisation
+- Introduced guided validation for delivery search and claims creation, improving usability and operational efficiency
+- Proposed a shift from single-claim submission to multiple-claim creation, improving customer and support team efficiency
+- Provided strategic guidance for extending the SAP Commerce platform towards a broader Customer Portal experience
+
+### Rawson Group
+**BTP Architect | Mobile Application Advisory | Process Modernisation**  
+*Aug 2024 - Oct 2024*
+
+- Led solution design and delivery guidance for an SAP MDK mobile application to modernise purchase order management
+- Helped simplify PO approval and management processes for users working across construction environments
+- Worked with business stakeholders to define MVP scope, prioritise backlog items and support incremental delivery
+- Guided the team through solution decisions, soft launch planning and feedback-driven refinement
+
+### McGrathNicol
+**BTP Architect and Service Delivery Manager | Platform Delivery Support**  
+*Jun 2024 - Aug 2024*
+
+- Provided technical leadership and solution governance across multiple concurrent SAP BTP-based initiatives
+- Established architecture standards and best-practice guidance to improve solution quality and delivery consistency
+- Supported service delivery management by improving issue visibility, delivery coordination and continuous improvement of BTP solutions
+- Guided the team in developing process automation on SAP BTP, improving scalability and maintainability
+
+### CSR
+**Enterprise Solutions Architect | SAP Commerce | Azure | SAP BTP**  
+*Apr 2021 - Mar 2024*
+
+- Provided enterprise solution architecture across customer self-service, digital identity, customer master, pricing, SAP Commerce and Azure-based architecture
+- Designed Azure AD B2C-based enterprise login patterns for CSR digital applications
+- Helped shape the target-state architecture for customer master, price catalogues, content management, ERP integration and customer self-service capabilities
+- Supported teams through design options, sprint work package definition, solution priorities and implementation guidance
+- Contributed to modernising customer onboarding, improving digital self-service and reducing operational complexity
+
+### IPF
+**Solution Architect and Team Lead | SAP Commerce | SAP BTP | Integration**  
+*Feb 2022 - Jan 2023*
+
+- Led solution design across sales and service digital transformation, improving portal usability and internal process efficiency
+- Architected an end-to-end solution integrating SAP Commerce, SAP BTP and SAP ECC via SAP Integration Suite
+- Led an onshore and offshore team of seven, guiding engineering practices, code reviews and delivery direction
+- Defined MVP-based solution options and collaborated with business and technical leads to manage scope, trade-offs and delivery priorities
 
 ---
 
-## 📄 Notes
+## Earlier Engineering Experience
 
-> More project details and references are available upon request.  
+### Tata Consultancy Services, Sydney
+**Engineering Lead | Team Lead | Full Stack Developer | SAP Commerce Developer**  
+*May 2015 - Mar 2021*
 
+- Led and contributed to large-scale digital commerce and enterprise application delivery across Woolworths, BIG W, SiteOne, NAPA, Mitre 10 and other customer engagements
+- Led engineering teams and supported developers through solution design, code reviews, delivery practices, integration implementation and production-quality engineering outcomes
+- Delivered SAP Commerce, Java, React, Python, Azure, GCP and microservices-based solutions across retail, B2B commerce, order management, store applications and digital channels
+- Established DevOps practices using Azure, Kubernetes, Terraform, shell scripting, automated pipelines and infrastructure-as-code principles to improve delivery consistency and engineering reliability
+- Helped transform monolithic commerce platforms into more modular, scalable and integration-ready solutions aligned to evolving business needs
+
+---
+
+## Career Highlights
+
+- **Practice leadership:** Lead engineers and consultants while remaining hands-on across customer solutioning, architecture direction and delivery quality
+- **Cross-functional leadership:** Guide business, architecture, engineering, integration, identity, security and testing teams through complex solution decisions
+- **Business-value architecture:** Connect technical choices with operating model impact, cost, risk, security, scalability and customer experience
+- **Customer trust:** Operate as a trusted advisor for SAP BTP, SAP Commerce, integration and cloud architecture decisions
+- **Capability uplift:** Mentor engineers, support recruitment, improve delivery standards and contribute to reusable practice guidance
+- **Pre-sales and advisory:** Support discovery, solution proposals, estimates, architecture roadmaps and commercial solution positioning
+
+---
+
+## Certifications
+
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Cloud Practitioner
+- SAP Certified Development Associate - SAP HANA Cloud 1.0
+- SAP Certified Product Support Specialist - SAP Commerce Cloud
+- AWS Academy Graduate - AWS Academy Cloud Architecting
+
+---
+
+## Keywords
+
+Engineering Manager, Practice Lead, Principal Consultant, Solutions Architect, Delivery Engineering Lead, Technology Consulting Lead, Enterprise Application Architecture, SAP BTP, SAP Business Technology Platform, SAP Commerce Cloud, SAP Integration Suite, SAP Cloud Identity Services, SAP CAP, SAP Fiori, SAP Build Work Zone, SAP Cloud ALM, SAP Customer Data Cloud, AWS, Azure, GCP, Java, Spring, Node.js, React, Microservices, API Architecture, Integration Architecture, DevOps, GitOps, Kubernetes, Docker, Terraform, Stakeholder Management, Customer Advisory, Architecture Governance, People Leadership, Capability Uplift
